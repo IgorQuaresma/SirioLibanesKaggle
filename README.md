@@ -1,6 +1,3 @@
-# SirioLibanesKaggle
-
-
 # Projeto Final Bootcamp Data Science Aplicada - Alura 
 
 Projeto de análise de dados do dataset de infectados pela Covid-19 do Hospital Sírio Libanês. Projeto motivado pelo dataset disponibilizado na plataforma Kaggle.[1] 
@@ -23,6 +20,21 @@ This project will explore the dataset of Covid-19 patients provided by  the Hosp
 
 
 ---
+
+
+**DATA INFORMATION**
+
+
+The columns "ICU" is the one that need to be predicted i
+
+The dataset contains anonymized data from Hospital Sírio-Libanês, São Paulo and Brasilia. All data were anonymized following the best international practices and recommendations. Data has been cleaned and scaled by column according to Min Max Scaler to fit between -1 and 1.
+
+The data is divided in different columns, which contain information about:
+Patient demographic information (3 columns)
+Patient previous grouped diseases (9 columns)
+Blood results (36 columns)
+Vital signs (6 columns)
+
 
 
 **OBJECTIVES**
@@ -58,6 +70,8 @@ Bootcamp_PF_MachineLearningModel - is the notebook used to do the predictions ab
 [1] [Sírio-Libanês data for AI and Analytics by Data Intelligence Team](https://www.google.com)
 
 [2] [COVID 19 information](https://en.wikipedia.org/wiki/COVID-19)
+
+[3] [COVID 19 information](https://en.wikipedia.org/wiki/COVID-19)
 
 
 ---
