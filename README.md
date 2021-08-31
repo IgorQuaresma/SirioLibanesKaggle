@@ -36,6 +36,8 @@ Blood results (36 columns)
 Vital signs (6 columns)
 
 
+---
+
 
 **OBJECTIVES**
 
@@ -70,8 +72,6 @@ Bootcamp_PF_MachineLearningModel - is the notebook used to do the predictions ab
 [1] [Sírio-Libanês data for AI and Analytics by Data Intelligence Team](https://www.google.com)
 
 [2] [COVID 19 information](https://en.wikipedia.org/wiki/COVID-19)
-
-[3] [COVID 19 information](https://en.wikipedia.org/wiki/COVID-19)
 
 
 ---
