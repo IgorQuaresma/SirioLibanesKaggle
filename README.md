@@ -9,7 +9,9 @@ Projeto de análise de dados do dataset de infectados pela Covid-19 do Hospital 
 
 Data science project using the Covid-19 data from the Hospital  Hospital Sírio Libanês. The data can be found at Kaggle platform.[1]
 
+
 ---
+
 
 **INTRODUCTION**
 
@@ -20,6 +22,9 @@ Since the Covid-19 can cause severe acute respiratory syndrome, the use of ICUs 
 This project will explore the dataset of Covid-19 patients provided by  the Hospital Sírio Libanês at kaggle platform.  
 
 
+---
+
+
 **OBJECTIVES**
 
 The project has two main objectives:
@@ -27,6 +32,9 @@ The project has two main objectives:
 Objective 1 - Predict admission to the ICU of confirmed COVID-19 cases
 
 Objective 2 - Predict NOT admission to the ICU of confirmed COVID-19 cases
+
+
+---
 
 
 **PROJECT STRUCTURE**
@@ -40,6 +48,9 @@ handling missing values, and adapting the data format for the next steps of the 
 Bootcamp_PF_ExploratoryAnalysis - is the notebook used to do the exploratory analysis. This notebook contains querys, charts, and other tools to interpret / understand the available data in more detail
 
 Bootcamp_PF_MachineLearningModel - is the notebook used to do the predictions about the tasks given by the  Sírio Libanês Hospital. This notebook contains different ML models such as logistic regression, decision tree, random forest, etc. 
+
+
+---
 
 
 **REFERENCES**
