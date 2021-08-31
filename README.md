@@ -9,6 +9,8 @@ Projeto de análise de dados do dataset de infectados pela Covid-19 do Hospital 
 
 Data science project using the Covid-19 data from the Hospital  Hospital Sírio Libanês. The data can be found at Kaggle platform.[1]
 
+---
+
 **INTRODUCTION**
 
 Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first known case was identified in Wuhan, China, in December 2019. The disease has since spread worldwide, leading to an ongoing pandemic. [2] The first case in Brazil was reported on February 26 and the country reached community transmission on March 20.
