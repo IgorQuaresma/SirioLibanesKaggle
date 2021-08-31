@@ -56,3 +56,11 @@ Bootcamp_PF_MachineLearningModel - is the notebook used to do the predictions ab
 **REFERENCES**
 
 [1] [Sírio-Libanês data for AI and Analytics by Data Intelligence Team](https://www.google.com)
+[2] [COVID 19 information](https://en.wikipedia.org/wiki/COVID-19)
+
+
+---
+
+
+**CONTACT INFORMATION**
+LinkedIn - [Igor Quaresma](https://www.linkedin.com/in/igorquaresma/)
